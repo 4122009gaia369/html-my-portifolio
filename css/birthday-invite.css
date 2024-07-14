@@ -1,0 +1,40 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background-color: rgb(12, 12, 12);
+    color: rgb(242, 97, 63) ;
+    
+}
+a {
+    text-decoration: none;
+}
+
+.bday-cake{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-gif-btn img{
+    height: 150px;
+    width: 150px;
+}
+
+
+h3,li{
+   
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+a {
+    text-align:center;
+    display:block;
+}
+

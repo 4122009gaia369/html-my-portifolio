@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(255, 245, 225);
+    color: rgb(12, 24, 68);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+}
+p,h1,h2,h3,h5{
+    display: inline-block;
+}
+.btnns img{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-bottom: auto;
+    z-index: 3;
+    position: relative;
+    transition: transform .2s;
+    
+}
+.btnns img:hover{
+    transform: scale(1.1);
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+.portifolio-websites-ss{
+    height: 400px;
+    display: block;
+  
+     
+}
+.img-description-and-btn{
+    display: flex;
+    
+}
+.linkss{
+    color: rgb(255, 105, 105);
+    margin-RIGHt: 5%;
+}
+.linkss:hover{
+    color: rgb(200, 0, 54);
+}
+.abt-me-and-contact-me{
+    display: flex;
+    justify-content: space-around;
+}
